@@ -1,15 +1,15 @@
 <h1 align="center">Howdy 👋, I'm Shubham Talan</h1>
-<h3 align="center">Experienced Front End Web Developer with a diverse background of 4 years in maintaining and building web apps, collaborating with a wide range of businesses in the logistics, marketplace, and e-commerce.</h3>
+<h3 align="center">Experienced Front End Web Developer with a diverse background of 4 years in maintaining and building web apps, collaborating with a wide range of businesses in the logistics, marketplace, and e-commerce,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamtalan996&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamtalan996" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamtalan996" alt="shubhamtalan996" /></a> </p>
 
-- Code Challenge [Find Falcone](https://find-falcone.shubhamtalan.com)
+- 👑 Code Challenge [Find Falcone](https://find-falcone.shubhamtalan.com)
 
 - 🌱 I’m currently learning **Express**
 
-- Chat Application [Darth's Chat](http://chat-app.shubhamtalan.com/)
+- 💬 Chat Application [Darth's Chat](http://chat-app.shubhamtalan.com/)
 
 - 👯 I’m looking to collaborate on **open source projects**
 
