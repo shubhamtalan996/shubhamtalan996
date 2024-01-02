@@ -1,5 +1,5 @@
 <h1 align="center">Howdy 👋, I am Shubham Talan</h1>
-<h3 align="center">Experienced Front End Web Developer with a diverse background of 4 years in maintaining and building web apps, collaborating with a wide range of businesses in the logistics, marketplace, and e-commerce</h3>
+<h3 align="center">Experienced Front End Web Developer with a diverse background of 4 years in maintaining and building web apps, collaborating with a wide range of businesses in the logistics, marketplace, and e-commerce.</h3>
 
 # 💫 About Me:
 
