@@ -5,8 +5,6 @@
 
 - 👑 Code Challenge [Find Falcone](https://find-falcone.shubhamtalan.com)
 
-- 🌱 I’m currently learning **Express**
-
 - 💬 Chat Application [Darth's Chat](http://chat-app.shubhamtalan.com/)
 
 - 👯 I’m looking to collaborate on **open source projects**
