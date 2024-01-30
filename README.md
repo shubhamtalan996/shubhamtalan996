@@ -7,8 +7,6 @@
 
 - 💬 Chat Application [Darth's Chat](http://chat-app.shubhamtalan.com/)
 
-- 👯 I’m looking to collaborate on **open source projects**
-
 - 💬 Ask me about **react, next, javascript and web performance.**
 
 - 📫 How to reach me **me@shubhamtalan.com**
