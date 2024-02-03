@@ -3,6 +3,8 @@
 
 # 💫 About Me:
 
+- 💻 MERN Stack
+
 - 👑 Code Challenge [Find Falcone](https://find-falcone.shubhamtalan.com)
 
 - 💬 Chat Application [Darth's Chat](http://chat-app.shubhamtalan.com/)
