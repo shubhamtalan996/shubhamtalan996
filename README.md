@@ -23,9 +23,11 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,webpack,graphql,nodejs,express,mongodb,nginx,docker,aws,sass,tailwind,git" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamtalan996&theme=kacho_ga&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamtalan996&theme=kacho_ga&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<details>
+  <summary># 📊 Github Stats ⚡:</summary>
+    <a href="#">![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamtalan996&theme=kacho_ga&hide_border=false)</a><br/>
+    <a href="#">![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamtalan996&theme=kacho_ga&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</a>
+</details>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
