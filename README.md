@@ -31,8 +31,9 @@
 <details>
   <summary># 📊 Github Stats ⚡:</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/?username=shubhamtalan996&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api/?username=shubhamtalan996&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamtalan996&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">[![Shubham's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shubhamtalan996)]</a>
 </details>
 
 ### ✍️ Random Dev Quote
