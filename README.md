@@ -16,9 +16,7 @@
 - ⚡ Fun fact **Follow 20 20 20 rule!**
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamtalan) 
-
+# 🏄🏻‍♂️ Skills ⚡:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,webpack,graphql,nodejs,express,mongodb,nginx,docker,aws,sass,tailwind,git" />
 </p>
