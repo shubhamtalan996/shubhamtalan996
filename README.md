@@ -16,12 +16,12 @@
 - ⚡ Fun fact **Follow 20 20 20 rule!**
 
 
-# 🏄🏻‍♂️ Skills ⚡:
+# 🏄🏻‍♂️ Skills:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,webpack,graphql,nodejs,express,mongodb,nginx,docker,aws,sass,tailwind,git" />
 </p>
 
-# 📊 Github Stats ⚡:
+# 📊 Github Stats:
 
 <a href="#">![Streak ⚡️](https://github-readme-streak-stats.herokuapp.com/?user=shubhamtalan996&theme=blueberry&hide_border=false)</a>
 
