@@ -20,9 +20,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamtalan) 
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,webpack,nodejs,express,mongodb,nginx,docker,aws,sass,tailwind,git" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,webpack,nodejs,express,mongodb,nginx,docker,aws,sass,tailwind,git" />
 </p>
 
 # 📊 GitHub Stats:
