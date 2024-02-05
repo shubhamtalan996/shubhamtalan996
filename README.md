@@ -23,15 +23,14 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,webpack,graphql,nodejs,express,mongodb,nginx,docker,aws,sass,tailwind,git" />
 </p>
 
-<details>
-  <summary># 📊 Github Stats ⚡:</summary>
+# 📊 Github Stats ⚡:
 
-  <a href="#">![Streak ⚡️](https://github-readme-streak-stats.herokuapp.com/?user=shubhamtalan996&theme=blueberry&hide_border=false)</a>
-  
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamtalan996&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
+<a href="#">![Streak ⚡️](https://github-readme-streak-stats.herokuapp.com/?user=shubhamtalan996&theme=blueberry&hide_border=false)</a>
 
-<br/>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamtalan996&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+
+
+
 <br/>
 <br/>
 
