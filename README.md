@@ -24,7 +24,6 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shubhamtalan996&theme=kacho_ga&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamtalan996&theme=kacho_ga&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamtalan996&theme=kacho_ga&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
