@@ -36,7 +36,7 @@
   <a href="#">[![Shubham's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shubhamtalan996)](https://github.com/shubhamtalan996/github-readme-stats)</a>
   
 </details>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/shubhamtalan996/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shubhamtalan996)](https://github.com/shubhamtalan996/github-readme-stats)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
