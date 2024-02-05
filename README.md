@@ -25,8 +25,9 @@
 
 <details>
   <summary># 📊 Github Stats ⚡:</summary>
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api/?username=shubhamtalan996&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Streak ⚡️](https://github-readme-streak-stats.herokuapp.com/?user=shubhamtalan996&theme=kacho_ga&hide_border=false)</a>
+
+  <a href="#">![Streak ⚡️](https://github-readme-streak-stats.herokuapp.com/?user=shubhamtalan996&theme=blueberry&hide_border=false)</a>
+  
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamtalan996&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
 
