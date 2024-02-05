@@ -33,7 +33,8 @@
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api/?username=shubhamtalan996&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamtalan996&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-  <a href="#">[![Shubham's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shubhamtalan996)]</a>
+  <a href="#">[![Shubham's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shubhamtalan996)](https://github.com/shubhamtalan996/github-readme-stats)</a>
+  
 </details>
 
 ### ✍️ Random Dev Quote
