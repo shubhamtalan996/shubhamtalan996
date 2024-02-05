@@ -17,9 +17,8 @@
 
 
 # 🏄🏻‍♂️ Skills:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,webpack,graphql,nodejs,express,mongodb,nginx,docker,aws,sass,tailwind,git" />
-</p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,webpack,graphql,nodejs,express,mongodb,nginx,docker,aws,sass,tailwind,git" />
+
 
 # 📊 Github Stats:
 
