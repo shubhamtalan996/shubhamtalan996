@@ -3,6 +3,8 @@
 
 # 👔 About Me:
 
+- 💼 [Portfolio](https://shubhamtalan.com)
+  
 - 💻 MERN Stack
 
 - 👑 Code Challenge [Find Falcone](https://find-falcone.shubhamtalan.com)
