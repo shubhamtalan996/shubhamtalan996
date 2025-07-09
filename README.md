@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋 I am Shubham Talan.</h1>
-<h3 align="center">Experienced Full Stack Engineer with a diverse background of 5 years in maintaining and building web apps, collaborating with a wide range of businesses in the logistics, marketplace, and e-commerce.</h3>
+<h3 align="center">Experienced Full Stack Engineer with a diverse background of 6 years in maintaining and building web apps, collaborating with a wide range of businesses in the logistics, marketplace, and e-commerce.</h3>
 
 # 👔 About Me:
 
